@@ -1,0 +1,13 @@
+C:\Users\culicode\Documents\VisualStudio2015\QuanLySinhVien\QLNV\QLNV\bin\Debug\QLNV.exe.config
+C:\Users\culicode\Documents\VisualStudio2015\QuanLySinhVien\QLNV\QLNV\obj\Debug\QLNV.csprojResolveAssemblyReference.cache
+C:\Users\culicode\Documents\VisualStudio2015\QuanLySinhVien\QLNV\QLNV\obj\Debug\QLNV.Form1.resources
+C:\Users\culicode\Documents\VisualStudio2015\QuanLySinhVien\QLNV\QLNV\obj\Debug\QLNV.Properties.Resources.resources
+C:\Users\culicode\Documents\VisualStudio2015\QuanLySinhVien\QLNV\QLNV\obj\Debug\QLNV.csproj.GenerateResource.Cache
+C:\Users\culicode\Documents\VisualStudio2015\QuanLySinhVien\QLNV\QLNV\bin\Debug\QLNV.exe
+C:\Users\culicode\Documents\VisualStudio2015\QuanLySinhVien\QLNV\QLNV\bin\Debug\QLNV.pdb
+C:\Users\culicode\Documents\VisualStudio2015\QuanLySinhVien\QLNV\QLNV\obj\Debug\QLNV.exe
+C:\Users\culicode\Documents\VisualStudio2015\QuanLySinhVien\QLNV\QLNV\obj\Debug\QLNV.pdb
+C:\Users\culicode\Documents\VisualStudio2015\QuanLySinhVien\QLNV\QLNV\bin\Debug\MaterialSkin.dll
+C:\Users\culicode\Documents\VisualStudio2015\Projects\QLSV\QLNV\bin\Debug\QLNV.exe.config
+C:\Users\culicode\Documents\VisualStudio2015\Projects\QLSV\QLNV\obj\Debug\QLNV.exe
+C:\Users\culicode\Documents\VisualStudio2015\Projects\QLSV\QLNV\obj\Debug\QLNV.pdb
